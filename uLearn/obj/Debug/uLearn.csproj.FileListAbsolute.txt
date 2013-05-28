@@ -1,0 +1,28 @@
+C:\Users\Bianca\Desktop\uLearn\uLearn\bin\uLearn.dll
+C:\Users\Bianca\Desktop\uLearn\uLearn\bin\uLearn.pdb
+C:\Users\Bianca\Desktop\uLearn\uLearn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bianca\Desktop\uLearn\uLearn\obj\Debug\uLearn.dll
+C:\Users\Bianca\Desktop\uLearn\uLearn\obj\Debug\uLearn.pdb
+D:\facultate\uLearn\uLearn\bin\uLearn.dll
+D:\facultate\uLearn\uLearn\bin\uLearn.pdb
+D:\facultate\uLearn\uLearn\obj\Debug\ResolveAssemblyReference.cache
+D:\facultate\uLearn\uLearn\obj\Debug\uLearn.dll
+D:\facultate\uLearn\uLearn\obj\Debug\uLearn.pdb
+C:\Users\Laura\Downloads\uLearn\uLearn\bin\uLearn.dll
+C:\Users\Laura\Downloads\uLearn\uLearn\bin\uLearn.pdb
+C:\Users\Laura\Downloads\uLearn\uLearn\obj\Debug\uLearn.dll
+C:\Users\Laura\Downloads\uLearn\uLearn\obj\Debug\uLearn.pdb
+C:\Users\sILVI\Documents\Visual Studio 2010\Projects\uLearn\uLearn\bin\uLearn.dll
+C:\Users\sILVI\Documents\Visual Studio 2010\Projects\uLearn\uLearn\bin\uLearn.pdb
+C:\Users\sILVI\Documents\Visual Studio 2010\Projects\uLearn\uLearn\obj\Debug\uLearn.dll
+C:\Users\sILVI\Documents\Visual Studio 2010\Projects\uLearn\uLearn\obj\Debug\uLearn.pdb
+C:\Users\sILVI\Documents\Visual Studio 2010\Projects\uLearn\uLearn\obj\Debug\uLearn.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\uLearn (2)\uLearn\uLearn\bin\uLearn.dll
+C:\Users\Laura\Desktop\uLearn (2)\uLearn\uLearn\bin\uLearn.pdb
+C:\Users\Laura\Desktop\uLearn (2)\uLearn\uLearn\obj\Debug\uLearn.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\uLearn (2)\uLearn\uLearn\obj\Debug\uLearn.dll
+C:\Users\Laura\Desktop\uLearn (2)\uLearn\uLearn\obj\Debug\uLearn.pdb
+C:\Users\Laura\Desktop\uLearn\uLearn\uLearn\bin\uLearn.dll
+C:\Users\Laura\Desktop\uLearn\uLearn\uLearn\bin\uLearn.pdb
+C:\Users\Laura\Desktop\uLearn\uLearn\uLearn\obj\Debug\uLearn.dll
+C:\Users\Laura\Desktop\uLearn\uLearn\uLearn\obj\Debug\uLearn.pdb

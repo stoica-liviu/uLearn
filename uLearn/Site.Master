@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="uLearn.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>uLearn</title>
+    <link href="~/Styles/Site2.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <a href="Default.aspx" runat="server">
+                <asp:Image ID="logo" ImageUrl="Images/uLearn2.png" runat="server" />    
+                </a>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                         <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server" 
+                             shape="rect" style="text-decoration: none">Log In</a> 
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome, <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>! &nbsp &nbsp
+                         <asp:LoginStatus ID="HeadLoginStatus" runat="server" style="text-decoration: none" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> 
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                      </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+                        
+        </div>
+
+        <div class="main2">
+            <asp:ContentPlaceHolder ID="MainContent2" runat="server"/>
+            
+        </div>
+
+<div class="clear">
+        </div>
+
+    <div class="footer">
+        &copy uLearn
+    </div>
+
+    </div>
+    
+    </form>
+</body>
+</html>
